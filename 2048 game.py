@@ -2,7 +2,7 @@
 
 
 
-"""    ---------Project 2048-----------
+"""    ----------Project 2048-----------
                 Amir Mustefa-----ATR/6830/09
                                                """
 ## 1. Generate two numbers of value 2 in random cells
